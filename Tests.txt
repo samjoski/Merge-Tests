@@ -8,3 +8,8 @@ Lettuce
 Tomatoes
 Mustard
 Buffalo Sauce
+
+Onions
+Crutons
+Cheddar Cheese
+Thousand Island
